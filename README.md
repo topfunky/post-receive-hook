@@ -18,6 +18,10 @@ repositories and whose values are arrays of URLs to post to.
      - https://example.com/hooks?token=1234567890
      - https://example.com/other-hook
 
+# See also
+
+* [Python notify-webhook](https://github.com/metajack/notify-webhook)
+
 # License
 
 The MIT License
